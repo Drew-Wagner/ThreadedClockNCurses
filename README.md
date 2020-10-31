@@ -1,4 +1,4 @@
-# Threaded Clock Timer
+# ⏱ Threaded Clock Timer
 A simple threaded UI implementing a digital stop watch with the NCurses library.
 
 ## Installation
