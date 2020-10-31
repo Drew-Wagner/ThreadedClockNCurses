@@ -29,10 +29,11 @@ Execute the main executable with:
 ./main
 ```
 
-Press space bar to pause the timer.
-Press down arrow to reset the timer.
-Press up arrow to increment timer by 1 hour.
-Press Q to exit.
+### Controls
+- Press SPACE 🌌 to pause the timer.
+- Press DOWN ⬇ to reset the timer.
+- Press UP ⬆ to increment timer by 1 hour.
+- Press Q to exit.
 
 ## References
 - COMP 345 with Nora Houari at Concordia University
