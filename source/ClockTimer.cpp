@@ -27,6 +27,7 @@ void ClockTimer::stop() {
   running = false;
   clock_thread->join();
   delete clock_thread;
+  clock_thread = nullptr;
 }
 
 void ClockTimer::run() {
